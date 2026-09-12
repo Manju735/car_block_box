@@ -255,7 +255,7 @@ dist/default/production/Car_Black_Box_Ref.X.production.hex
 
 ## 👤 Author
 
-**Poomani Krishna**
+**Manjunatha H**
 
 ---
 
